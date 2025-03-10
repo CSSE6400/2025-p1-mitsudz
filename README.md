@@ -11,3 +11,5 @@ including how to run it.
 There are [resources](https://www.makeareadme.com) available to help you write a good README file.
 
 
+- Set up python3 venv .venv
+- might be using poetry - but need to make sure dependencies are present
