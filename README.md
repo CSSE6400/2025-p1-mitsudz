@@ -16,3 +16,5 @@ There are [resources](https://www.makeareadme.com) available to help you write a
 - Create basic app with flask, and used "poetry run flask --app todo run" in order to start up the server
 - Then created endpoints in todo/views/routes.py. 
 - Also add -p 6400 to the end of the poetry run command to specify the port as 6400.
+- Set FLASK_ENV to development and FLASK_DEBUG to 1 to ensure autoreloading on save during development
+- Use unset FLASK_ENV and unset FLASK_DEBUG to reset them.
